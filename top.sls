@@ -6,3 +6,4 @@ base:
     - timezone
     - wget
     - salt.base
+    - salt.minion
