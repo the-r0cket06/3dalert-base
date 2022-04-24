@@ -5,3 +5,4 @@ base:
     - ssh
     - timezone
     - wget
+    - salt.base
